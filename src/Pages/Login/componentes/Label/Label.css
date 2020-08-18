@@ -1,0 +1,7 @@
+.label-container{
+    display: flexbox;
+    padding: 0.3em 1.3em;
+    margin: 0 0.3em 0.3em 0;
+    text-align: left;
+    color: whitesmoke;
+}
